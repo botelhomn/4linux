@@ -1,0 +1,6 @@
+ID;NOME;IDADE;SEXO;PAIS;
+123;Jose;45;M;BRA;
+564;Joana;42;F;BRA;
+556;Velasquez;32;M;MEX;
+567;Brian;18;M;ENG;
+982;Aoki;22;M;JPN
